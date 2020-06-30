@@ -25,7 +25,7 @@ SECRET_KEY = 'd1p+kk*q&%ti0e5d(i5pn^5j&d9upup#33mbc3(c)n4)rskonf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['72ab60f4289e4234be63c05892c8bdeb.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['72ab60f4289e4234be63c05892c8bdeb.vfs.cloud9.us-east-1.amazonaws.com', 'https://roberts-todo-for-ci.herokuapp.com/']
 
 
 # Application definition
